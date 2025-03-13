@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/RIT/csci711GlobalIllumination/project/KC/Content/Main.umap",
+				"E:/RIT/csci711GlobalIllumination/project/KC/Content/LUT/image-11.uasset",
+				"E:/RIT/csci711GlobalIllumination/project/KC/Content/LUT/image-13.uasset"
+			]
+		}
+	]
+}
